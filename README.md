@@ -1,5 +1,5 @@
 HELLO CONNECTIONS 
-TO check my website copy the url and paste on your browser:-
+TO check my website:-
 https://heartfelt-malasada-544980.netlify.app/
 
 
